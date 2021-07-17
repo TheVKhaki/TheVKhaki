@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheVKhaki
 - 👀 I’m interested in Learn and code
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TheVKhaki@gmail.com
 
